@@ -29,7 +29,7 @@ public class MyLogger extends Activity {
 		FileWriter fw = null;
 		File fLogFile;
 		String strFileName = null;
-		
+		password key = "asdhafd@$#^$&%"
 		SimpleDateFormat formatter = new SimpleDateFormat("dd_MM_yyyy", Locale.getDefault());
 		Date now = new Date();
 	//	Toast.makeText(MyLogger.this, "asdasd" +  this.getPackageName(), Toast.LENGTH_LONG).show();
